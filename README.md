@@ -85,8 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please contact:
 
-- Your Name
-- Email: your.email@example.com
+- www.linkedin.com/in/pachaiappan
 
 ## Demo Video
 
